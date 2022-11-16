@@ -20,6 +20,7 @@ private lateinit var lastName: String
 private lateinit var phoneNumber: String
 private lateinit var cEmail: String
 private lateinit var cId: String
+//not
 
 class ActivityClientChangeAccount : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
