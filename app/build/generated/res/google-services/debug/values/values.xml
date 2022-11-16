@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">56037157787-l4p7gd4akovkjau7uf9dacae3qkg7b3s.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://petvet-80e18-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">56037157787</string>
+    <string name="google_api_key" translatable="false">AIzaSyBZGTG8B6oSdoxg5Vx8VOi7lL21bepsZKE</string>
+    <string name="google_app_id" translatable="false">1:56037157787:android:d7b248706d4bb412cf0f3e</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBZGTG8B6oSdoxg5Vx8VOi7lL21bepsZKE</string>
+    <string name="google_storage_bucket" translatable="false">petvet-80e18.appspot.com</string>
+    <string name="project_id" translatable="false">petvet-80e18</string>
+</resources>
